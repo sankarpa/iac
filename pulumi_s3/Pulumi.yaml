@@ -1,0 +1,6 @@
+name: s3-bucket
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Python code to create aws s3 bucket
